@@ -16,12 +16,16 @@ changes done gain
 now i'll be adding some more comments to see the results.
 some more changes 4578899s
 lets add some more comments to see the results.
+<<<<<<< HEAD
 git additiion
 something changed by me on monday. please push it
 dismissing pull request.
 change is not happening
 
 
+=======
+          git additiion
+>>>>>>> 4b6f3b40b06466546f01ff493d22b0b182426c97
             
 
 
